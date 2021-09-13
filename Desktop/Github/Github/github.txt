@@ -1,0 +1,19 @@
+GITHUB:
+GitHub is a online respository & version control.
+
+VERSION CONTROL:
+   - Version control is apractice of tracking and managing changes to software code.
+   - This helps teams to work faster,
+        . Reduces development time and increses successful deployment.
+        . Keeps track of every modification in the code.
+        . If mistake is made, developers can track back to the previous version and compare it.
+        . Helps prevent mistake.
+
+    Advantages of GitHub:
+        . Collaboration: Helps people connect with their work, no matter where ever they may be.
+        . Backup       : Helps store the software code along with different version of it.
+        . Accessible   : Can be easily accessed from where ever you want.   
+
+    Disadvantages of GitHub:
+        . Storing our Highly sensitive code or information in github is a consern. 
+           and we trust third party like github to manage our project and files is always concerning. 
