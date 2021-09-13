@@ -15,5 +15,4 @@ VERSION CONTROL:
         . Accessible   : Can be easilygit  accessed from where ever you want.   
 
     Disadvantages of GitHub:
-        . Storing our Highly sensitive code or information in github is a co.nsern. 
-           and we trust third party like github to manage our project and files is always a bit concerning
+      
